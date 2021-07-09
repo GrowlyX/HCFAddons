@@ -1,0 +1,8 @@
+name: HCFAddons
+version: 1.0.0
+main: bar.pvp.hcfaddons.AddonsPlugin
+author: BlazingTide
+api-version: 1.13
+
+depend:
+  - Commands
